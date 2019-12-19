@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "Domaine";
+  src: url("/fonts/domaine-display-web-black.woff2") format("woff2"),
+       url("/fonts/domaine-display-web-black.woff") format("woff");
+}

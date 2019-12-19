@@ -72,6 +72,11 @@
   background-color: var(--black);
 }
 
+.bg-gradient {
+  background: rgb(166,217,255);
+  background: linear-gradient(90deg, rgba(166,217,255,1) 0%, rgba(63,169,245,1) 100%);
+}
+
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
   & :first-child {

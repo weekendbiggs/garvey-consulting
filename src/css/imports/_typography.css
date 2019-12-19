@@ -9,6 +9,9 @@ html {
   background-color: var(--black);
 }
 
+h1 {
+  font-family: 'Domaine';
+}
 
 body {
   font-family: var(--font-family);

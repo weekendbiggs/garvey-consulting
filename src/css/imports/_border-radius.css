@@ -6,6 +6,8 @@
 
 .br-pill {    border-radius: 9999px; }
 
+.br-hero {		border-bottom-left-radius: 300px}
+
 .br--bottom {
 		border-top-left-radius: 0;
 		border-top-right-radius: 0;
